@@ -1,6 +1,8 @@
-## This is a secondary heading
-### This is tertirary heading
+* R programming
+* Getting and Cleaning Data
+* Reproducible Research
+* Statistical Inference
+* Regression Models
+* Practical Machine learning
+* Building Data Products 
 
-* First item
-* Second item
-* third item
