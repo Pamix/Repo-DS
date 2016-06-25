@@ -1,4 +1,3 @@
-
 The courses comprising the Data Science Specialization are:
 * Data Science Toolbox
 * R programming
